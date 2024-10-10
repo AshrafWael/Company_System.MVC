@@ -1,0 +1,14 @@
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Day1_DKH_S1.DAL.deps.json
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Day1_DKH_S1.DAL.runtimeconfig.json
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Day1_DKH_S1.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Day1_DKH_S1.DAL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.AssemblyInfo.cs
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\refint\Day1_DKH_S1.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Day1_DKH_S1.DAL.genruntimeconfig.cache
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\ref\Day1_DKH_S1.DAL.dll

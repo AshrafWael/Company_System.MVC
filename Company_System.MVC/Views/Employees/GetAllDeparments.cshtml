@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewData["Title"] = "GetAllDeparments";
+    SelectList listItems = new SelectList(Model, "Id", "Name");
+}
+@model List<DepartmentVm>
+<h1>GetAllDeparments</h1>
+
+<select asp-for="@Model.First().Id" asp-items="listItems" id="selctionValue" class="form-control"onchange="GetEmployes()" > </select>
+
+<select class="form-control" id="employesData"></select>
+
+
+@section Scripts{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script>
+        function GetEmployes() {
+            var Id = $("#selctionValue").val();
+            $("#employesData").html("");
+            //console.log(deptid);
+            $.ajax({
+                url: "/Employees/GetAllJson/" + Id,
+                success: function (res) {
+                    console.log(res)
+                    for (let emp of res){
+                        $("#employesData").append("<option value=" + emp.id + ">" + emp.name + "</option>")
+                    }
+                }
+            });
+        }
+    </script>
+}

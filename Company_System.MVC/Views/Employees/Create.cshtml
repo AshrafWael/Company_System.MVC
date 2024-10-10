@@ -1,0 +1,63 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@using Company_System.ViewModels
+@model List<DepartmentVm>
+
+@* <form method="post" action="/Employees/Create">
+    <label>Name</label>
+    <input type="text" name="Name" class="form-control" />
+
+    <label>Salary</label>
+    <input type="number" name="Salary" class="form-control" />
+
+    <label>Age</label>
+    <input type="number" name="Age" class="form-control" />
+
+    <label>Image</label>
+    <input type="file" name="ImgUrl" class="form-control" />
+
+    <label>Department</label>
+    @* <input type="text" name="DepartmentId" class="form-control" /> *@
+@*     <select name="DepartmentId" class="form-control">
+        @foreach (DepartmentVm dept in Model)
+        {
+            <option value="@dept.Id">@dept.Name</option>
+        }
+    </select>
+   <input type="submit" value="Save" class="btn btn-dark" /> *@
+@* </form> *@
+
+@* <a href="/Employees/GetAllVM" class="btn btn-primary">Back To List</a> *@
+@{
+    Layout = "_Layout";
+}
+<!--html help loosly type-->
+<form method="post" action="/Employees/Create">
+    @Html.Label("Name","Employee Name")
+    @Html.TextBox("Name",null,new{ @class="form-control"})
+   
+    @Html.Label("Salary","Employee Salary")
+    @Html.TextBox("Salary",null,new{ @class="form-control"})
+
+    @Html.Label("Age","Employee Age")
+    @Html.TextBox("Age" ,null,new{ @class="form-control"})
+
+    <label>Image</label>
+    <input type="file" name="ImgUrl" class="form-control" />
+    <label>Department</label>
+     <input type="text" name="DepartmentId" class="form-control" />
+    <select name="DepartmentId" class="form-control">
+        @foreach (DepartmentVm dept in Model)
+        {
+            <option value="@dept.Id">@dept.Name</option>
+        }
+    </select>
+   <input type="submit" value="Save" class="btn btn-dark" />
+</form>
+@Html.ActionLink("Back To List","GetAllVM","Employees",null,new {@class="btn btn-primary"})
+<a href="/Employees/GetAllVM" class="btn btn-primary">Back To List</a> 
+
+

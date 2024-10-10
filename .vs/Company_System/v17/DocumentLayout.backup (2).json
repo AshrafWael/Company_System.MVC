@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Mvc\\Day1_DKH_S1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{482D21D6-21E4-40FD-AE60-FE167DA9E203}|Day1_DKH_S1\\Company_System.MVC.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{482D21D6-21E4-40FD-AE60-FE167DA9E203}|Day1_DKH_S1\\Company_System.MVC.csproj|solutionrelative:day1_dkh_s1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7AC48-65C3-46B6-AE7C-2838781FDC9E}|Day1_DKH_S1.BLL\\Day1_DKH_S1.BLL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.bll\\viewmodels\\responseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E7AC48-65C3-46B6-AE7C-2838781FDC9E}|Day1_DKH_S1.BLL\\Day1_DKH_S1.BLL.csproj|solutionrelative:day1_dkh_s1.bll\\viewmodels\\responseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7AC48-65C3-46B6-AE7C-2838781FDC9E}|Day1_DKH_S1.BLL\\Day1_DKH_S1.BLL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.bll\\viewmodels\\roletouserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E7AC48-65C3-46B6-AE7C-2838781FDC9E}|Day1_DKH_S1.BLL\\Day1_DKH_S1.BLL.csproj|solutionrelative:day1_dkh_s1.bll\\viewmodels\\roletouserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7AC48-65C3-46B6-AE7C-2838781FDC9E}|Day1_DKH_S1.BLL\\Day1_DKH_S1.BLL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.bll\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E7AC48-65C3-46B6-AE7C-2838781FDC9E}|Day1_DKH_S1.BLL\\Day1_DKH_S1.BLL.csproj|solutionrelative:day1_dkh_s1.bll\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.dal\\database\\company_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|solutionrelative:day1_dkh_s1.dal\\database\\company_systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.dal\\repository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|solutionrelative:day1_dkh_s1.dal\\repository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|solutionrelative:day1_dkh_s1.dal\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.dal\\repository\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|solutionrelative:day1_dkh_s1.dal\\repository\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1.dal\\repository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7BCF8DD-C571-4560-8036-7B04A0544032}|Day1_DKH_S1.DAL\\Day1_DKH_S1.DAL.csproj|solutionrelative:day1_dkh_s1.dal\\repository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D21D6-21E4-40FD-AE60-FE167DA9E203}|Day1_DKH_S1\\Day1_DKH_S1.csproj|a:\\mvc\\day1_dkh_s1\\day1_dkh_s1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{482D21D6-21E4-40FD-AE60-FE167DA9E203}|Day1_DKH_S1\\Day1_DKH_S1.csproj|solutionrelative:day1_dkh_s1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Day1_DKH_S1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Day1_DKH_S1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T00:50:10.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseViewModel.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.BLL\\ViewModels\\ResponseViewModel.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.BLL\\ViewModels\\ResponseViewModel.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.BLL\\ViewModels\\ResponseViewModel.cs",
+              "RelativeToolTip": "Day1_DKH_S1.BLL\\ViewModels\\ResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:48:15.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleToUserViewModel.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.BLL\\ViewModels\\RoleToUserViewModel.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.BLL\\ViewModels\\RoleToUserViewModel.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.BLL\\ViewModels\\RoleToUserViewModel.cs",
+              "RelativeToolTip": "Day1_DKH_S1.BLL\\ViewModels\\RoleToUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:48:13.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.BLL\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.BLL\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.BLL\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "Day1_DKH_S1.BLL\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:48:10.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.DAL\\Repository\\DepartmentRepo.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\DepartmentRepo.cs",
+              "RelativeToolTip": "Day1_DKH_S1.DAL\\Repository\\DepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:16:01.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.DAL\\Repository\\EmployeeRepo.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\EmployeeRepo.cs",
+              "RelativeToolTip": "Day1_DKH_S1.DAL\\Repository\\EmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:15:54.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.DAL\\Repository\\IDepartmentRepo.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\IDepartmentRepo.cs",
+              "RelativeToolTip": "Day1_DKH_S1.DAL\\Repository\\IDepartmentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:15:53.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.DAL\\Repository\\IEmployeeRepo.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Repository\\IEmployeeRepo.cs",
+              "RelativeToolTip": "Day1_DKH_S1.DAL\\Repository\\IEmployeeRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:15:51.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Company_SystemContext.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Database\\Company_SystemContext.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1.DAL\\Database\\Company_SystemContext.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1.DAL\\Database\\Company_SystemContext.cs",
+              "RelativeToolTip": "Day1_DKH_S1.DAL\\Database\\Company_SystemContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:15:41.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Day1_DKH_S1\\Controllers\\AccountController.cs",
+              "ToolTip": "A:\\Mvc\\Day1_DKH_S1\\Day1_DKH_S1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Day1_DKH_S1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T00:15:14.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

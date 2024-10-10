@@ -1,0 +1,14 @@
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Company_System.DAL.deps.json
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Company_System.DAL.runtimeconfig.json
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Company_System.DAL.dll
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\bin\Debug\net7.0\Company_System.DAL.pdb
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.csproj.AssemblyReference.cache
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.GeneratedMSBuildEditorConfig.editorconfig
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.AssemblyInfoInputs.cache
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.AssemblyInfo.cs
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.csproj.CoreCompileInputs.cache
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.dll
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\refint\Company_System.DAL.dll
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.pdb
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\Company_System.DAL.genruntimeconfig.cache
+A:\Mvc\Day1_DKH_S1\Day1_DKH_S1.DAL\obj\Debug\net7.0\ref\Company_System.DAL.dll

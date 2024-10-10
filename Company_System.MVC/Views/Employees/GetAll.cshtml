@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+ <table class="table table-bordered table-hover">
+   
+     <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Salary</th>
+        <th>DepartmentName</th>
+        <th>Image</th>
+     </tr>
+     @foreach (Employee emp in Model)
+    {
+        <tr>
+            <td>@emp.Id</td>
+            <td>@emp.Name</td>
+            <td>@emp.Age</td>
+            <td>@emp.Salary</td>
+            <td>@emp.Department.Name</td>
+            <td><img style="width:100px; height:100px;" src="~/Images/@emp.ImgUrl" /> </td>
+        </tr>
+    }
+ </table>

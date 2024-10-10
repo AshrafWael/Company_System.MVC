@@ -1,0 +1,15 @@
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\bin\Debug\net7.0\Day1_DKH_S1.BLL.deps.json
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\bin\Debug\net7.0\Day1_DKH_S1.BLL.dll
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\bin\Debug\net7.0\Day1_DKH_S1.BLL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\bin\Debug\net7.0\Day1_DKH_S1.DAL.dll
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\bin\Debug\net7.0\Day1_DKH_S1.DAL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.csproj.AssemblyReference.cache
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.AssemblyInfoInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.AssemblyInfo.cs
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.csproj.CopyComplete
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.dll
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\refint\Day1_DKH_S1.BLL.dll
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\Day1_DKH_S1.BLL.pdb
+C:\Users\Mahmoud Ahmed\Desktop\Day1_DKH_S1\Day1_DKH_S1.BLL\obj\Debug\net7.0\ref\Day1_DKH_S1.BLL.dll

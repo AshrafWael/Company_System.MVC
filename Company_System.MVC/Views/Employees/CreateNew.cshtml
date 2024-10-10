@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewData["Title"] = "CreateNew";
+}
+
+<h1>CreateNew</h1>
+
+@using Company_System.ViewModels
+@model List<DepartmentVm> 
+
+ <form method="post" action="/Employees/CreateNew">
+    <label>Name</label>
+    <input type="text" name="Name" class="form-control" />
+
+    <label>Salary</label>
+    <input type="number" name="Salary" class="form-control" />
+
+    <label>Age</label>
+    <input type="number" name="Age" class="form-control" />
+
+    <label>Image</label>
+    <input type="file"  name="ImgFile" class="form-control" />
+
+    <label>Department</label>
+
+    @* <select name="DepartmentId" class="form-control">
+        @foreach (DepartmentVm dept in Model)
+        {
+            <option value="@dept.Id">@dept.Name</option>
+        }
+    </select> *@
+   <input type="submit" value="Save" class="btn btn-dark" /> 
+ </form>
+
+<a href="/Employees/GetAllVM" class="btn btn-primary">Back To List</a>
